@@ -11,7 +11,7 @@ Upon validation the rest of the mediation flow will continue or discard.
 
 After building the mediator project with maven, **org.wso2.api.basicAuth-1.0.0.jar** can add to the <EI_HOME>/dropins directory.
 
-### The following is a sample API which uses the custom mediator.
+#### The following is a sample API which uses the custom mediator.
 
 ```
 <?xml version="1.0" encoding="UTF-8"?>
